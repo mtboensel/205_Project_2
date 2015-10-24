@@ -2,12 +2,7 @@
 
 Team : NP-Complete
 
-Members: 
-Matthew Boensel
-
-Ulysses Vega
-
-Philip Evans
+Members: Matthew Boensel, Ulysses Vega and Philip Evans
 
 Summary: 
 This project is meant to use Python towards some sort of multimedia purpose.  Our aim is to manipulate audio.  While 
