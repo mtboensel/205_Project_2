@@ -1,8 +1,8 @@
 # 205_Project_2
 
 This project is meant to use Python towards some sort of multimedia purpose.  Our aim is to manipulate audio.  While 
-Python provides a wide variety of libraries for this purpose, we are currently using numPy, sciPy, and _____.  We came to
-these libraries after a number of difficulties while trying to use ____.
+Python provides a wide variety of libraries for this purpose, we are currently using numPy, sciPy, and Math.  We came to
+these libraries after a number of difficulties while trying to use PyAudio, among others.
 
 Our long-term goal is to take audio input, perform some sort of tranformation on it (should the user deem it neccessary),
 and then provide a visual representation of the result of whatever operations (if any) we performed.  Currently, the 
